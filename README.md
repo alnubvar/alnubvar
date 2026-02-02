@@ -22,7 +22,7 @@ business impact and decision-making.
 - ROC-AUC, PR-AUC, threshold tuning
 - Business-oriented insights
 
-👉 Repo: https://github.com/alnubvar/telco-churn-prediction
+👉 Repo: https://github.com/alnubvar/ml_churn_telco
 
 ---
 
@@ -36,7 +36,7 @@ Sales forecasting and anomaly detection for retail time series data.
 - Error analysis (RMSE, MAE)
 - Anomaly detection
 
-👉 Repo: https://github.com/alnubvar/time_series_forecasting
+👉 Repo: https://github.com/alnubvar/time_series_retail_forecasting
 
 ---
 
